@@ -30,4 +30,8 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
+.vscode/git
+
+### Database ###
+pereval_2022-02-22-2021.sql
+pereval-2022-02-22.dump
