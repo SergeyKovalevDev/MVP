@@ -35,3 +35,8 @@ build/
 ### Database ###
 pereval_2022-02-22-2021.sql
 pereval-2022-02-22.dump
+
+### Other ###
+.org/
+*.jar
+*.json
